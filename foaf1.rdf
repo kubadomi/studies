@@ -1,0 +1,70 @@
+<rdf:RDF
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:foaf="http://xmlns.com/foaf/0.1/"
+      xmlns:admin="http://webns.net/mvcb/">
+<foaf:PersonalProfileDocument rdf:about="">
+  <foaf:maker rdf:resource="#me"/>
+  <foaf:primaryTopic rdf:resource="#me"/>
+  <admin:generatorAgent rdf:resource="http://www.ldodds.com/foaf/foaf-a-matic"/>
+  <admin:errorReportsTo rdf:resource="mailto:leigh@ldodds.com"/>
+</foaf:PersonalProfileDocument>
+<foaf:Person rdf:ID="me">
+<foaf:name>Kuba K</foaf:name>
+<foaf:title>Mr</foaf:title>
+<foaf:givenname>Kuba</foaf:givenname>
+<foaf:family_name>K</foaf:family_name>
+<foaf:nick>kubix</foaf:nick>
+<foaf:mbox_sha1sum>fa271fdbe30dae75eb5088d16d89c20208e4aa04</foaf:mbox_sha1sum>
+<foaf:schoolHomepage rdf:resource="home.agh.edu.pl"/>
+<foaf:knows>
+<foaf:Person>
+<foaf:name>Jan</foaf:name>
+<foaf:mbox_sha1sum>ed47472ea086be0598769020044354f6117b44e3</foaf:mbox_sha1sum>
+<rdfs:seeAlso rdf:resource="Janek"/></foaf:Person></foaf:knows>
+<foaf:knows>
+<foaf:Person>
+<foaf:name>Karol</foaf:name>
+<foaf:mbox_sha1sum>e7865633a3db407dba0f77d93bdf918b4be0f1e2</foaf:mbox_sha1sum>
+<rdfs:seeAlso rdf:resource="Karolek"/></foaf:Person></foaf:knows>
+<foaf:knows>
+<foaf:Person>
+<foaf:name>Jerzy</foaf:name>
+<foaf:mbox_sha1sum>164b2f586152561de024adcf9340452fe7b66000</foaf:mbox_sha1sum>
+<rdfs:seeAlso rdf:resource="Jurek"/></foaf:Person></foaf:knows>
+<foaf:knows>
+<foaf:Person>
+<foaf:name>Andrzej</foaf:name>
+<foaf:mbox_sha1sum>1445dbaacd21bc860b5a9ca5d47b86faf5e3f6c9</foaf:mbox_sha1sum>
+<rdfs:seeAlso rdf:resource="Andrzejek"/></foaf:Person></foaf:knows>
+<foaf:knows>
+<foaf:Person>
+<foaf:name>Maciej</foaf:name>
+<foaf:mbox_sha1sum>5522bb5840f31ceb4b81d7238364efe27418ea9e</foaf:mbox_sha1sum>
+<rdfs:seeAlso rdf:resource="Maciek"/></foaf:Person></foaf:knows>
+<foaf:knows>
+<foaf:Person>
+<foaf:name>Mateusz</foaf:name>
+<foaf:mbox_sha1sum>f5e47ba2da6072742e66c3815d4889140b0bb4dc</foaf:mbox_sha1sum>
+<rdfs:seeAlso rdf:resource="Mateuszek"/></foaf:Person></foaf:knows>
+<foaf:knows>
+<foaf:Person>
+<foaf:name>Benedykt</foaf:name>
+<foaf:mbox_sha1sum>0ee2d26864d68b55944d0162be4028840079282b</foaf:mbox_sha1sum>
+<rdfs:seeAlso rdf:resource="Benek"/></foaf:Person></foaf:knows>
+<foaf:knows>
+<foaf:Person>
+<foaf:name>Hubert</foaf:name>
+<foaf:mbox_sha1sum>d5c02f797cbafe6b69c7840a5d88320c05831e3d</foaf:mbox_sha1sum>
+<rdfs:seeAlso rdf:resource="Hubercik"/></foaf:Person></foaf:knows>
+<foaf:knows>
+<foaf:Person>
+<foaf:name>Miłosz</foaf:name>
+<foaf:mbox_sha1sum>8e63a0aeff0e500a64a4d49ceff4b98714bcf2b9</foaf:mbox_sha1sum>
+<rdfs:seeAlso rdf:resource="Miłoszek"/></foaf:Person></foaf:knows>
+<foaf:knows>
+<foaf:Person>
+<foaf:name>Jakub</foaf:name>
+<foaf:mbox_sha1sum>7f67834f81b6126d29a24da48fa1c173d729eac6</foaf:mbox_sha1sum>
+<rdfs:seeAlso rdf:resource="Kuba"/></foaf:Person></foaf:knows></foaf:Person>
+</rdf:RDF>
